@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 venue: "Université Gustave Eiffel"
 date: 2022-09-01
+teaching_period: "2021–2023"
 location: "Champs-sur-Marne, France"
 ---
 
